@@ -1,0 +1,3 @@
+- venv\Scripts\activate
+- django-admin startproject travel .
+- python manage.py runserver
